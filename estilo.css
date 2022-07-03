@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-align:center;
+    font-size: 60px;
+    background-color:rgb(216, 200, 216);
+    color:rgb(174, 128, 209);
+    padding: 20px;
+}
+nav ul{
+    background-color:rgb(220, 177, 225);
+    width:100%;
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    color:rgb(102, 180, 163);
+    padding: 10px;
+    width: 150px;
+}
+nav li:hover{
+    background-color:rgb(225, 218, 238);
+}
+img{
+    width: 990px;
+    height: 650px;
+    object-fit:fill;
+}
+.contenido{
+    display: flex;
+    margin: 100px;
+}
+.articulos{
+    width: 100%;
+}
+.secciones{
+    display:flex;
+    align-items:center;
+    padding: 10px;
+}
+.texto1{
+    text-align:left;
+    font-family:'Franklin Gothic Medium';
+    padding: 30px;
+    color: rgb(174, 144, 197);
+}
+.textos2{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family:'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+p{
+    padding: 15px;
+}
+h4{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family:'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h5{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    padding: 30px;
+}
+h6{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h7{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h8{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h9{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h10{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 40px;
+    padding: 30px;
+}
+h11{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h12{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}
+h13{
+    text-align:left;
+    color:rgb(174, 144, 197);
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    padding: 30px;
+}  
